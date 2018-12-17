@@ -15,4 +15,6 @@ Room 1004.%rThis is the training room. One day you might receive all sorts of in
 s 1000
 1005
 Eastern corridor (room 1005).%rThis east-west corridor looks like it could be interesting to follow.
-w 1002
+w 1002 e 1006
+1006
+Room 1006. This is your test room! You found it!
