@@ -18,3 +18,4 @@ Eastern corridor (room 1005).%rThis east-west corridor looks like it could be in
 w 1002 e 1006
 1006
 Room 1006. This is your test room! You found it!
+w 1005
